@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Arda
-
+I graduated from Kırıkkale University with a bachelor's degree in Electrical and Electronics Engineering in 2020.
 <!--
 **ardakozann/ardakozann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
